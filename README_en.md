@@ -284,6 +284,7 @@ Collect the latest and most practical free tools and resources in the field of i
 - [Tencent Cloud](https://cloud.tencent.com/act/pro/domain-sale) - A domestic platform, the preferred choice for .cn domains.
 
 ### Document Management
+- [Practical Web Tools](https://practicalwebtools.com/) - 1,400+ free browser-based tools for PDF editing/conversion, file/image/audio conversion, and 200+ calculators. Fully client-side, no uploads.
 
 - [VitePress](https://vitepress.vuejs.org) - A static site generator powered by Vite & Vue.
 - [Notion](https://notion.so)
